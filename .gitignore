@@ -1,0 +1,5 @@
+node_modules/
+screenshots/
+test-visual.js
+package-lock.json
+package.json
